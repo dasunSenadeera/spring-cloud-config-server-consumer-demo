@@ -1,1 +1,1 @@
-# spring-cloud-congig-server-consumer-demo
+# spring-cloud-config-server-consumer-demo
